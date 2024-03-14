@@ -1,0 +1,7 @@
+extract
+ we have Path and Query from axum framework
+ Query(params): Query<StructParams> receives a struct of params.
+ 
+ Path(value): Path<String> receives a string as a path parameter. 
+ 
+ 
